@@ -113,4 +113,4 @@ HTML, CSS, JavaScript를 활용하여 웹 개발 스킬을 연마하고, 다양�
 
 이 프로젝트는 학습 및 연구 목적으로 만들어졌으며, 상업적 목적으로 사용할 수 없습니다.
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section="footer" width="100%" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer" width="100%" /></p>
